@@ -5,3 +5,7 @@ You can also edit a PowerPoint or Keynote presentation on the Mac while viewing 
 Siri is a funtion that allows you to search by voice anything on your computer. 
 You can also ask Siri to search the web, and call/text people in your contacts. 
 Siri can also be used to search for documents on your computer. 
+
+Keychain is basically a password manager for Mac OS. 
+Catalina added the ability to also integrate passwords saved in Google Chrome to use on all devices. 
+It is a cloud based function as well, so that you can take your passwords to new (Apple) devices, as well as use them across all current devices.
