@@ -1,3 +1,7 @@
 Sidecar is a function that allows you to use an iPad as a second display for your Mac. 
 Once set up, you can move your pointer to the iPad. 
 You can also edit a PowerPoint or Keynote presentation on the Mac while viewing it on the iPad. 
+
+Siri is a funtion that allows you to search by voice anything on your computer. 
+You can also ask Siri to search the web, and call/text people in your contacts. 
+Siri can also be used to search for documents on your computer. 
